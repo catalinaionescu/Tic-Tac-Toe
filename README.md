@@ -44,8 +44,8 @@ The firmware was developed entirely in C and compiled using **Microchip Studio**
 * **Hardware Design & Simulation:** OrCAD Capture, Proteus 8
 
 ## 📸 The Prototype
-![Board Front](img/Board%20-%20back.jpg)
-![Board Back](img/Board%20-%20front.jpg)
+![Board Front](img/Board%20-%20back.png)
+![Board Back](img/Board%20-%20front.png)
 
 
 ## 👥 Team & Acknowledgements
